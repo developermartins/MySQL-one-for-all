@@ -1,0 +1,2 @@
+-- select * from SpotifyClone.reproducoes;
+-- select * from SpotifyClone.cancoes;
