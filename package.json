@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "mysql2": "2.1.0",
-    "sequelize": "6.2.0"
+    "sequelize": "6.28.2"
   }
 }
